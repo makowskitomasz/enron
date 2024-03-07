@@ -1,3 +1,5 @@
 /maildir/*
+/enron_backup/*
 *[0-9].
 *.sh
+
