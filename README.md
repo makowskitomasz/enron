@@ -25,7 +25,7 @@ Project is developed in the team of:
 + Hugo Lopez Juan
 + Almudena Peiró Blanco
 + Tomasz Makowski
-+ Nacho Escriche
++ Ignacio Escriche Galbis
 + Maximo Valero Sanz
 + Ruben Garcia Garcia
 + LLuis Pellicier Juan
